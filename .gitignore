@@ -1,0 +1,5 @@
+# ignore binaries
+bin/
+obj/
+# ignore .csv files
+*.csv
